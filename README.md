@@ -90,6 +90,18 @@ winget install -e --id HandBrake.HandBrake
 winget install -e --id Adobe.Acrobat.Reader.64-bit
 ```
 
+### Line
+
+```
+winget install -e --id LINE.LINE
+```
+
+### DeepL
+
+```
+winget install -e --id DeepL.DeepL
+```
+
 ## Ubuntu on WSL2
 
 ## Ubuntu Standalone
