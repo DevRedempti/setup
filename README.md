@@ -125,6 +125,10 @@ winget install -e --id OBSProject.OBSStudio
 
 https://streamlabs.com/
 
+### Facebook Messenger
+
+https://www.messenger.com/desktop
+
 ### 
 
 ## Ubuntu on WSL2
