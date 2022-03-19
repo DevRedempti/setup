@@ -129,7 +129,9 @@ https://streamlabs.com/
 
 https://www.messenger.com/desktop
 
-### 
+### MSI AfterBurner
+
+https://www.msi.com/Landing/afterburner/graphics-cards
 
 ## Ubuntu on WSL2
 
