@@ -2,8 +2,7 @@
 
 ## Info
 
-This is just a document I made to document my PC setup. I will be listing all the apps I usually use so that everytime I need to setup my development PC in the future, I have an easy way to remember how I set it up before.
-
+This is just a document I made to document my PC setup. I will be listing all the apps I usually use so that everytime I need to setup my development PC in the future, I have an easy way to remember how I set it up before. I get most of my apps from winget (https://winget.run/) so that it can be installed through the windows terminal or powershell.
 
 ## Windows Setup
 
@@ -17,6 +16,12 @@ NOTE: Do not choose the one with "Pre" on it's Logo
 ### Installing other essential Apps
 
 Open Windows Terminal or Powershell then type the code below
+
+### WSL
+
+```
+wsl --install
+```
 
 ### Google Chrome
 
@@ -101,6 +106,26 @@ winget install -e --id LINE.LINE
 ```
 winget install -e --id DeepL.DeepL
 ```
+
+### Steam
+
+```
+winget install -e --id Valve.Steam
+```
+
+### OBS
+
+```
+winget install -e --id OBSProject.OBSStudio
+```
+
+## Other Windows Apps
+
+### StreamLabs
+
+https://streamlabs.com/
+
+### 
 
 ## Ubuntu on WSL2
 
