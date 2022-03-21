@@ -139,6 +139,6 @@ https://www.messenger.com/desktop
 
 https://www.msi.com/Landing/afterburner/graphics-cards
 
-## Ubuntu on WSL2
+## Ubuntu on WSL2 (WIP)
 
-## Ubuntu Standalone
+## Ubuntu Standalone (WIP)
