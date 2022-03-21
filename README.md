@@ -59,6 +59,12 @@ winget install -e --id JetBrains.WebStorm
 winget install -e --id Docker.DockerDesktop
 ```
 
+### Postman
+
+```
+winget install -e --id Postman.Postman
+```
+
 ### Slack
 
 ```
