@@ -125,6 +125,12 @@ winget install -e --id Valve.Steam
 winget install -e --id OBSProject.OBSStudio
 ```
 
+### EarTrumpet
+
+```
+winget install -e --id File-New-Project.EarTrumpet
+```
+
 ## Other Windows Apps
 
 ### StreamLabs
