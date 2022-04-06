@@ -59,6 +59,12 @@ winget install -e --id JetBrains.WebStorm
 winget install -e --id Docker.DockerDesktop
 ```
 
+### Laragon
+
+```
+winget install -e --id LeNgocKhoa.Laragon
+```
+
 ### Postman
 
 ```
