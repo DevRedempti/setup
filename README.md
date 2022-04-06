@@ -13,6 +13,12 @@ This is just a document I made to document my PC setup. I will be listing all th
 
 NOTE: Do not choose the one with "Pre" on it's Logo
 
+OR, you can use PowerShell to install it by using the command below
+
+```
+winget install -e --id Microsoft.WindowsTerminal
+```
+
 ### Installing other essential Apps
 
 Open Windows Terminal or Powershell then type the code below
