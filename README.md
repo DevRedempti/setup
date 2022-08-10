@@ -157,6 +157,23 @@ https://www.messenger.com/desktop
 
 https://www.msi.com/Landing/afterburner/graphics-cards
 
+### Steam
+
+### Canva
+
+### Photopea
+
+### xShell
+
+### SketchUp
+
+### Inkscape
+
+### Skype
+
+### ![image](https://user-images.githubusercontent.com/12232866/183894510-6142fa57-059e-4077-82b7-647baeb97d11.png)
+
+
 ## Ubuntu on WSL2 (WIP)
 
 ## Ubuntu Standalone (WIP)
